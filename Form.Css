@@ -1,0 +1,31 @@
+body {
+    background-color: #b77d4b;
+}
+form {
+    width: 350px;
+    margin: 10px;
+    padding: 10px;
+}
+input[type="text"],
+input[type="password"],
+input[type="email"],
+input[type="number"] {
+    width: 100%;
+    padding: 10px;
+    margin: 5px;
+    border: 3px solid #de5c06;
+    border-radius: 4px;
+}
+input[type="submit"] {
+    background-color: #b65c0c;
+    color: rgb(189, 33, 9);
+    padding: 10px;
+    margin: 5px;
+    border: 3px solid #de5c06;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100px;
+}
+h2 {
+    color: #f37304; 
+}
